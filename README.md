@@ -1,4 +1,4 @@
-# Spotify Popularity Prediction (TuneRank)
+# "TuneRank: Predicting Spotify Song Popularity using ML & GenAI"
 
 ## Overview
 Genre-aware music popularity prediction using audio features, classical
