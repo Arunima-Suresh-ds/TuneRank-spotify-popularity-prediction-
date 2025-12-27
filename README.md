@@ -1,9 +1,10 @@
 #  TuneRank: Music Popularity & Performance Analysis
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Applied-orange)
-![Clustering](https://img.shields.io/badge/Technique-Clustering-green)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Unsupervised-FF9800)
+![Algorithm](https://img.shields.io/badge/Algorithm-K--Means-4CAF50)
+![Status](https://img.shields.io/badge/Status-Completed-2E7D32)
+
 
 > Analyzing and ranking songs based on audio features to understand patterns behind music popularity using machine learning.
 
